@@ -42,4 +42,4 @@ end
 #     @post = Post.create(title: "My Post", description: "My post desc", post_status: "draft")
 #     expect(@post.post_status).to eq("draft")
 #  end
-#end
+# end
